@@ -5,3 +5,5 @@
 ## [JavaScript]() RoadMap & _Free_ Online Resources
 
 ## [React]() RoadMap & _Free_ Online Resources
+
+## [Python]() RoadMap & _Free_ Online Resources
